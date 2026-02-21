@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 ```yaml
 Name: Arnab Kashyap
-Location: Guwahati, Assam, India
+Location: Guwahati,Assam, India
 Education: B.Tech in Computer Science Engineering
 Role: Aspiring Software Engineer
 
